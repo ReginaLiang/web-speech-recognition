@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReginaLiang/web-speech-recognition/static/css/main.073c9b0a.css",
+    "main.js": "/ReginaLiang/web-speech-recognition/static/js/main.42e7fffc.js",
+    "static/js/787.47d56a86.chunk.js": "/ReginaLiang/web-speech-recognition/static/js/787.47d56a86.chunk.js",
+    "index.html": "/ReginaLiang/web-speech-recognition/index.html",
+    "main.073c9b0a.css.map": "/ReginaLiang/web-speech-recognition/static/css/main.073c9b0a.css.map",
+    "main.42e7fffc.js.map": "/ReginaLiang/web-speech-recognition/static/js/main.42e7fffc.js.map",
+    "787.47d56a86.chunk.js.map": "/ReginaLiang/web-speech-recognition/static/js/787.47d56a86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.42e7fffc.js"
+  ]
+}
