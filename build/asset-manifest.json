@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReginaLiang/web-speech-recognition/docs/static/css/main.073c9b0a.css",
-    "main.js": "/ReginaLiang/web-speech-recognition/docs/static/js/main.abebb6c8.js",
-    "static/js/787.47d56a86.chunk.js": "/ReginaLiang/web-speech-recognition/docs/static/js/787.47d56a86.chunk.js",
-    "index.html": "/ReginaLiang/web-speech-recognition/docs/index.html",
-    "main.073c9b0a.css.map": "/ReginaLiang/web-speech-recognition/docs/static/css/main.073c9b0a.css.map",
-    "main.abebb6c8.js.map": "/ReginaLiang/web-speech-recognition/docs/static/js/main.abebb6c8.js.map",
-    "787.47d56a86.chunk.js.map": "/ReginaLiang/web-speech-recognition/docs/static/js/787.47d56a86.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.e1f2422b.js",
+    "static/js/787.47d56a86.chunk.js": "/static/js/787.47d56a86.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.e1f2422b.js.map": "/static/js/main.e1f2422b.js.map",
+    "787.47d56a86.chunk.js.map": "/static/js/787.47d56a86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.abebb6c8.js"
+    "static/js/main.e1f2422b.js"
   ]
 }
